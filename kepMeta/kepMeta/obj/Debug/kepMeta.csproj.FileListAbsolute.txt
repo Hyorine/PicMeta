@@ -1,0 +1,10 @@
+C:\Users\gyoks\source\repos\kepMeta\kepMeta\bin\Debug\kepMeta.exe.config
+C:\Users\gyoks\source\repos\kepMeta\kepMeta\bin\Debug\kepMeta.exe
+C:\Users\gyoks\source\repos\kepMeta\kepMeta\bin\Debug\kepMeta.pdb
+C:\Users\gyoks\source\repos\kepMeta\kepMeta\obj\Debug\kepMeta.csproj.AssemblyReference.cache
+C:\Users\gyoks\source\repos\kepMeta\kepMeta\obj\Debug\kepMeta.Form1.resources
+C:\Users\gyoks\source\repos\kepMeta\kepMeta\obj\Debug\kepMeta.Properties.Resources.resources
+C:\Users\gyoks\source\repos\kepMeta\kepMeta\obj\Debug\kepMeta.csproj.GenerateResource.cache
+C:\Users\gyoks\source\repos\kepMeta\kepMeta\obj\Debug\kepMeta.csproj.CoreCompileInputs.cache
+C:\Users\gyoks\source\repos\kepMeta\kepMeta\obj\Debug\kepMeta.exe
+C:\Users\gyoks\source\repos\kepMeta\kepMeta\obj\Debug\kepMeta.pdb
